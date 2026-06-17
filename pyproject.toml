@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "bit-pirate"
-version = "0.1.0"
+version = "0.1.1"
 description = "Python clients for ESP32 Bit Pirate over USB serial, Wi-Fi, and BPIO2"
 readme = "README.md"
 requires-python = ">=3.10"

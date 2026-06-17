@@ -9,7 +9,7 @@ Python clients for controlling [ESP32 Bit Pirate](https://github.com/geo-tp/ESP3
 ## Installation
 
 ```bash
-pip install bit-pirate-python
+pip install bit-pirate
 ```
 
 The PyPI distribution is named `bit-pirate`; the Python import package is `bitpirate`.

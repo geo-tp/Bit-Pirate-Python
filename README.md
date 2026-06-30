@@ -6,6 +6,8 @@ Python clients for controlling [ESP32 Bit Pirate](https://github.com/geo-tp/ESP3
 - Wi-Fi WebSocket CLI
 - BPIO2 binary GPIO, I2C, and SPI adapter mode
 
+A collection of scripts is available here: [ESP32 Bit Pirate Scripts](https://github.com/geo-tp/ESP32-Bit-Pirate-Scripts)
+
 ## Installation
 
 ```bash
